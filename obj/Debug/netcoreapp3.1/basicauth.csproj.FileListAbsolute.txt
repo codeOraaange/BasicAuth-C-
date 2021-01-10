@@ -1,0 +1,118 @@
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.exe
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.deps.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.runtimeconfig.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.runtimeconfig.dev.json
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.pdb
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.Views.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\basicauth.Views.pdb
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.csprojAssemblyReference.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\staticwebassets\basicauth.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\staticwebassets\basicauth.StaticWebAssets.xml
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorAssemblyInfo.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorAssemblyInfo.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.AssemblyInfoInputs.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.AssemblyInfo.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.TagHelpers.input.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.TagHelpers.output.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorCoreGenerate.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.Views.pdb
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.dll
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.pdb
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\basicauth.csproj.CopyComplete
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Hana Hasanah\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\Hana Hasanah\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.exe
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.deps.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.runtimeconfig.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.runtimeconfig.dev.json
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.pdb
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.Views.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\basicauth.Views.pdb
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Hana Hasanah\per dotnet an\basicauth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.csprojAssemblyReference.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\staticwebassets\basicauth.StaticWebAssets.Manifest.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\staticwebassets\basicauth.StaticWebAssets.xml
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.MvcApplicationPartsAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorAssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.AssemblyInfoInputs.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.AssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.TagHelpers.input.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.TagHelpers.output.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorCoreGenerate.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorTargetAssemblyInfo.cache
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.RazorTargetAssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.Views.pdb
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.csproj.CopyComplete
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.dll
+D:\Hana Hasanah\per dotnet an\basicauth\obj\Debug\netcoreapp3.1\basicauth.pdb
